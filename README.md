@@ -15,5 +15,6 @@ Acheived with reverse engineering.</br>
 # Note for GNOME</br>
 In order to have the same cursor size between X11 and Wayland windows apply the fix  `cursor-size-fix-gnome.sh` </br>
 # Credits and disclaimer</br>
-The main goal is bring this cursor for Linux, and has no intention from being monetized or anything. Please support the original artist in the link below.
+Special thanks to [@Konqi0139](https://github.com/Konqi0139) for adding a new cursor. </br></br>
+The main goal is bring this cursor for Linux, and has no intention from being monetized or anything.</br>Please support the original artist in the link below.</br>
 https://vgen.co/nomixels
